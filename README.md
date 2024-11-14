@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-Design desctop preview for the laptop Acer Aspire 3 A315-59
-![Design desctop preview for the OPPO Buds layout solution](./img/desctop-layout.png)
+Design desctop preview for the Blender Tefal
+![Design desctop preview for the Blender Tefal layout solution](./img/desctop-layout.png)
 
 ### Links
 
